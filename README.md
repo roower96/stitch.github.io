@@ -1,2 +1,1 @@
-# stitch.github.io
-Stitch
+
